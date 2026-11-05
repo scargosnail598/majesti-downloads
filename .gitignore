@@ -1,0 +1,15 @@
+# Keep binary distribution in reviewed Releases, not source commits.
+*.apk
+*.aab
+*.exe
+*.msi
+*.zip
+*.tar.gz
+*.pem
+*.key
+*.jks
+*.keystore
+.env
+.env.*
+*.log
+*.dump
